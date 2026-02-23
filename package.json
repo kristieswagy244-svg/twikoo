@@ -2,6 +2,6 @@
   "name": "twikoo-vercel",
   "version": "1.0.0",
   "dependencies": {
-    "twikoo-func": "latest"
+    "twikoo-func": "^1.6.44"
   }
 }
